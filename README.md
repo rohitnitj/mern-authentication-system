@@ -16,6 +16,25 @@ This project demonstrates real-world authentication workflows commonly used in p
 - Secure HTTP-only Cookies
 - Form Validation & Error Handling
 - Toast Notifications for better UX
+---
+
+## 📸 Screenshots
+
+
+### 🔐 Login Page
+<img width="1906" height="900" alt="image" src="https://github.com/user-attachments/assets/3fc02a71-299e-4f38-90e6-7ce8b943253d" />
+
+### 📝 Register Page
+<img width="1896" height="904" alt="image" src="https://github.com/user-attachments/assets/ea18d2f6-ff2b-4053-a38d-994c8385507d" />
+
+### 📧 Email OTP Verification
+<img width="1896" height="899" alt="image" src="https://github.com/user-attachments/assets/0daa3351-1afc-4294-af2f-3aad34155e26" />
+
+### 🔁 Reset Password
+<img width="1892" height="889" alt="image" src="https://github.com/user-attachments/assets/bcd7ca46-21eb-4f6d-904a-7e1ee805bb7e" />
+<img width="1902" height="893" alt="image" src="https://github.com/user-attachments/assets/401805b5-ee3f-432d-981d-85517a35e26f" />
+<img width="1908" height="903" alt="image" src="https://github.com/user-attachments/assets/d7bdd0c5-4352-4711-b517-01e94cc6b4bd" />
+
 
 ---
 
